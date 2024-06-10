@@ -1,4 +1,2 @@
-# kafka_training
-# kafka_training
-"# kafka_project" 
-"# Name" 
+# kafka_project
+
